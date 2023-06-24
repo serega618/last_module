@@ -1,0 +1,25 @@
+h1
+{
+    background:green;
+}
+.paragrah-1
+{
+    background: gold;
+    font-size: 20px;
+    color: black;
+}
+.paragrah-2
+{
+    border: 10px solid red;
+    border-radius: 10px;
+    font-size: 25px;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+.paragrah-3
+{
+    font-weight:  bold;
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+}
