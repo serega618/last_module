@@ -3,7 +3,7 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse('Успешна! Вы на главной')
+    return render(request, 'index.html')
 
 def page1(request):
     return HttpResponse('Успешно это другая') 
